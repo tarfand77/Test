@@ -1,5 +1,5 @@
 # سورس اصلی ربات پی وی رسان
-# @PvResanBot
+#@sagihbbot
 # دست هیچ بنی بشری نیست و نخواهد بود
 
 # این سورس ای هم که داخل این گیت هاب هست
@@ -8,7 +8,7 @@
 
 # تیم برنامه نویسی FTC
 # با آدرس سایت
-# https://feelthecode.com
+# http://t.me/sagihbbot.com
 
 # اولین سازنده ربات پیام رسان فارسی در تلگرام
 # و تنها برنامه نویس ربات پی وی رسان می باشد
@@ -25,11 +25,11 @@
 # ما را در جریان قرار دهید تا پیگیری های لازم
 # صورت پذیرد
 
-site: https://feelthecode.com
+site: http://t.me/sagihbbot.com
 -
-Telegram Bot: https://telegram.me/PvResanBot
+Telegram Bot: https://telegram.me/sagihbbot
 -
-Telegram Channel: https://telegram.me/PvResan
+Telegram Channel: https://telegram.me/joker2828
 
 -
 یا علی خدا قوت
